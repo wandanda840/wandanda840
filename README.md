@@ -12,7 +12,7 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Hi+%F0%9F%91%8B+I'm+Wanda;Computer+Science+%40+INSA+Rennes;AI+%26+Data+Engineering+enthusiast;Building+ML%2C+NLP+%26+data+pipelines+%F0%9F%9A%80)](https://git.io/typing-svg)
-[![Profile Views](https://komarev.com/ghpvc/?username=TON_PSEUDO_GITHUB&color=blueviolet)](https://github.com/TON_PSEUDO_GITHUB)
+[![Profile Views](https://komarev.com/ghpvc/?username=wandanda840&color=blueviolet)](https://github.com/wandanda840)
 
 </div>
 
@@ -22,7 +22,7 @@
 
 🎓 **Computer Science student** specializing in **Artificial Intelligence** at **INSA Rennes**
 
-🌍 Prior training at **École Polytechnique de Yaoundé (ENSP)**, Cameroun
+🌍 Prior training at **École Polytechnique de Yaoundé (ENSP)**, Camerounhttps://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif
 
 🤖 **DATA/AI** Enthusiast
 
