@@ -16,9 +16,9 @@
 
 </div>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" width="6.5%"> About me
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" width="6.5%"> About me
 
-<img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" width="30%">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="30%">
 
 🎓 **Computer Science student** specializing in **Artificial Intelligence** at **INSA Rennes**
 
@@ -68,7 +68,7 @@ class Wanda:
 
 </td>
 <td>
-<img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" width="400px">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="400px">
 </td>
 </tr>
 </table>
