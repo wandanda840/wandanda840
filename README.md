@@ -22,7 +22,7 @@
 
 🎓 **Computer Science student** specializing in **Artificial Intelligence** at **INSA Rennes**
 
-🌍 Prior training at **École Polytechnique de Yaoundé (ENSP)**, Camerounhttps://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif
+🌍 Prior training at **École Polytechnique de Yaoundé (ENSP)**, Cameroun
 
 🤖 **DATA/AI** Enthusiast
 
