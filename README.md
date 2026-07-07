@@ -16,7 +16,7 @@
 
 </div>
 
-## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="6.5%"> About me
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" width="6.5%"> About me
 
 <img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" width="30%">
 
@@ -100,7 +100,7 @@ class Wanda:
 
 <!-- Activity Graph -->
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TON_PSEUDO_GITHUB&bg_color=0d1117&color=FF6B00&line=FFB300&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wandanda840&bg_color=0d1117&color=FF6B00&line=FFB300&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <!-- Trophy -->
