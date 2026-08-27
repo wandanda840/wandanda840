@@ -89,15 +89,6 @@ class Wanda:
   </a>
 </p>
 
-<p align="center">
- <h2 align="center">GitHub Readme Stats</h2>
-</p>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_GITHUB&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO_GITHUB&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
  ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=5%>  Operating Systems
  
 <p align="center">
