@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,12,13,16,20&height=300&section=header&text=🎓%20Wanda_NANDA%20🎓&fontSize=90&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,12,13,16,20&height=320&section=header&text=🎓%20Wanda_NANDA%20🎓&fontSize=80&animation=fadeIn)
 
 </div>
 
